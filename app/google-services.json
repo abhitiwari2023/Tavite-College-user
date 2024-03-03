@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "886693654679",
+    "firebase_url": "https://tavite-collage-52ecf-default-rtdb.firebaseio.com",
+    "project_id": "tavite-collage-52ecf",
+    "storage_bucket": "tavite-collage-52ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886693654679:android:b0bb9911266a9e4ffab9d2",
+        "android_client_info": {
+          "package_name": "com.example.TaviteCollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886693654679-9d2koigvg39p2tavnpumnu39b2du6h82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGPQc_FsGCs3tx6-fN6WCYr8r5CoCAKkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886693654679-9d2koigvg39p2tavnpumnu39b2du6h82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886693654679:android:4aa7ea1d15bc0c10fab9d2",
+        "android_client_info": {
+          "package_name": "com.example.taviteadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886693654679-0j8r7i35og4it55192ri2rei711r1th6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taviteadmin",
+            "certificate_hash": "0bb5db646fa154ed3656474ab47e12aa995f9cb0"
+          }
+        },
+        {
+          "client_id": "886693654679-9d2koigvg39p2tavnpumnu39b2du6h82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGPQc_FsGCs3tx6-fN6WCYr8r5CoCAKkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886693654679-9d2koigvg39p2tavnpumnu39b2du6h82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886693654679:android:d1d1c85b42e724acfab9d2",
+        "android_client_info": {
+          "package_name": "com.example.tavitecollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886693654679-9d2koigvg39p2tavnpumnu39b2du6h82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGPQc_FsGCs3tx6-fN6WCYr8r5CoCAKkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886693654679-9d2koigvg39p2tavnpumnu39b2du6h82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886693654679:android:b75045714f12c7a2fab9d2",
+        "android_client_info": {
+          "package_name": "com.my.tavitecollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886693654679-9d2koigvg39p2tavnpumnu39b2du6h82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGPQc_FsGCs3tx6-fN6WCYr8r5CoCAKkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886693654679-9d2koigvg39p2tavnpumnu39b2du6h82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886693654679:android:7468d5c112250703fab9d2",
+        "android_client_info": {
+          "package_name": "com.my.tavitegroupofeducationkatni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886693654679-9d2koigvg39p2tavnpumnu39b2du6h82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGPQc_FsGCs3tx6-fN6WCYr8r5CoCAKkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886693654679-9d2koigvg39p2tavnpumnu39b2du6h82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
