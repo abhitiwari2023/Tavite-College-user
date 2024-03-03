@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tavite Group of Education, Katni</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+
+    <string name="about_college">Tavite Group of Education, Katni was established in the academic year 2005-2006 run by Society named Ayurved Vikas Parishad, Katni (M.P.) which is registered under Madhya Pradesh Society Registration Act , 1973 with  Reg.  No. J.J.745 dated 25/03/1992.The college is recognized by N.C.T.E, New Delhi and affilated to Rani Durgavati Vishwavidyalaya, Jabalpur. The college strives to provide  quality  education ,dedicated to becoming a place where the pursuit and dissemination of knowledge is unequivocal, respect for human diginity is unequalled &amp; innovation is the norm.
+
+TAVITE aspires to foster excellence, in undergraduate, post graduate education and research. It seeks to create , an enriched,  more prosperous and sustainable society for the citizens of India and the World. The rapid changes taking place in the Higher/Technical Education throughout the world are taken into account while offering students greater accessibility and choice in the curriculum and course contents.</string>
+
+
+</resources>
