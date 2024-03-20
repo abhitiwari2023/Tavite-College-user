@@ -19,4 +19,5 @@ In addition to these features, users also have the option to share the app with 
 We believe this app will greatly enhance communication and engagement within the Tavite College community. We look forward to your feedback and suggestions for further improvements.
 
 Best regards,
+
 Abhishek Tiwari
